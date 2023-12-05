@@ -1,0 +1,27 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "f88e977c-f7e6-47fb-b2a1-dd9a004c09e4",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1701745188471"
+        }
+      },
+      "favorite": {
+        "name": "Không Click Vào Đây !",
+        "color": "color6"
+      },
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      },
+      "connectionSecrets": "AAHTQjhHjsbzabh9tj6c0t/GRf2IvqcPWzE4+Ci8IeELocTHB1Kfk9Sbz8jLVMFLdu+BVWUAe1VU+Zw3SNKCuNrWAhaAAYthUhW1dEpvZ2atTB70VZbjRtgSXDCu/4I1M/+j7LYmo8satItJKU9ySVvtQmq6Bc6oh7S7S9ZY5rASfJhN2RbwIWaZLSY="
+    }
+  ]
+}
