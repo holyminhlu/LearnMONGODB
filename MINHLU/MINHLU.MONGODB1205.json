@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "656e7f9a4076a261a2d11b7a"
+  },
+  "title": "MongoDB Overview",
+  "description": "MongoDB is no sql database",
+  "by": "tutorials point",
+  "url": "http://www.tutorialspoint.com",
+  "tags": [
+    "mongodb",
+    "database",
+    "NoSQL"
+  ],
+  "likes": 100
+},
+{
+  "_id": {
+    "$oid": "656e7f9a4076a261a2d11b7b"
+  },
+  "title": "NoSQL Database",
+  "description": "NoSQL database doesn't have tables",
+  "by": "tutorials point",
+  "url": "http://www.tutorialspoint.com",
+  "tags": [
+    "mongodb",
+    "database",
+    "NoSQL"
+  ],
+  "likes": 20,
+  "comments": [
+    {
+      "user": "user1",
+      "message": "My first comment",
+      "dateCreated": {
+        "$date": "2013-12-09T19:35:00.000Z"
+      },
+      "like": 0
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "656e81a84076a261a2d11b7c"
+  },
+  "title": "HO LY MINH LU",
+  "description": "LU KHONG PHAI CON CHO",
+  "by": "LU DOG",
+  "url": "http://www.mongodb.com",
+  "tags": [
+    "DOG",
+    "CAT",
+    "USER"
+  ],
+  "likes": 100
+}]
